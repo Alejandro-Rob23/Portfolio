@@ -1,0 +1,511 @@
+
+
+
+
+
+@media  screen and (min-width: 200px) and (max-width: 766px) {
+  
+   
+  .cuerpo {
+    background: rgb(9, 8, 73);
+    background: linear-gradient(59deg, rgb(0, 0, 0) 0%, rgb(42, 37, 100) 100%); 
+    width: auto;
+    z-index: -1;
+    height: 1900px;
+  }
+
+  
+  
+  
+ 
+.insidebox {
+  flex-direction: row;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: absolute;
+  
+  top: 10%;
+  left:15%;
+text-align: center;
+
+
+  color: white;
+ 
+
+}
+.tituloeffect {   
+font-family: Arial; 
+font-size: 30px; 
+color: #1278BF; 
+text-shadow: 0px 0px 9px #508AD3;
+}
+
+.skills{
+  text-align: center;
+font-size: small;
+  color: white;
+position: absolute;
+display: row;
+  top: 250px;
+  left: 6%;
+}
+.skill-item{
+  padding: 20px;
+  width: 300px;
+  transition: background-color .3s;
+  border-radius: 5%;
+}
+.skill-item:hover{
+  color: black;
+  background-color: #c4bdd8;
+  border-radius: 5%;
+}
+.skill-tittle{
+  border-bottom-style:solid ;
+  border-width: .3px;
+}
+.cbdproject {
+  position: absolute;
+  top: 800px;
+  left: 25%;
+flex-direction: row;
+  font-size: small;
+  height: 220px;
+  width:400px;
+  
+border-top-width:0px ;
+  color: white;
+}
+.circulo{
+  border-radius: 5%;
+}
+.column_2 {
+  
+  right: 10px;
+  top: 15px;
+  
+  width: 180px;
+ 
+  padding-top: 27px;
+ 
+}
+.revanchaproject {
+  position: absolute;
+  top: 1250px;
+  left: 25%;
+  text-align: left;
+  font-size: small;
+
+  height: 220px;
+  width: 400px;
+  border-radius: 15%;
+  color: white;
+}
+.handle_pagefoter {
+  position: absolute;
+  top: 1710px;
+  left: 17%;
+
+text-align: center;
+color: white;
+}
+.link{
+ text-decoration: none; 
+ color: white;
+}
+.link:hover{
+  color: #025e6e;
+}
+
+
+.handle_pagefoter.a {
+  color:bisque;
+  text-decoration: none;
+
+}
+
+
+
+
+  
+}
+
+@media  screen and (min-width: 767px) and (max-width: 1022px){
+   
+  .cuerpo {
+    background: rgb(9, 8, 73);
+    background: linear-gradient(59deg, rgb(0, 0, 0) 0%, rgb(42, 37, 100) 100%); 
+    width: auto;
+    z-index: -1;
+    height: 1800px;
+  }
+
+  
+  
+  
+ 
+.insidebox {
+  flex-direction: row;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: absolute;
+  width: 400px;
+  top: 10%;
+  left:23%;
+text-align: center;
+
+
+  color: white;
+ 
+
+}
+.tituloeffect {   
+font-family: Arial; 
+font-size: 50px; 
+color: #1278BF; 
+text-shadow: 0px 0px 9px #508AD3;
+}
+
+.skills{
+  text-align: center;
+
+  color: white;
+position: absolute;
+display: row;
+  top: 250px;
+  left: 29%;
+}
+.skill-item{
+  padding: 20px;
+  width: 300px;
+  transition: background-color .3s;
+  border-radius: 5%;
+}
+.skill-item:hover{
+  color: black;
+  background-color: #c4bdd8;
+  border-radius: 5%;
+}
+.skill-tittle{
+  border-bottom-style:solid ;
+  border-width: .3px;
+}
+.cbdproject {
+  position: absolute;
+  top: 1100px;
+  left: 26%;
+
+  font-size: small;
+  height: 220px;
+  width:400px;
+  
+border-top-width:0px ;
+  color: white;
+}
+
+.column_2 {
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  position: absolute;
+  width: 180px;
+  border-top-style: solid;
+  padding-top: 7px;
+  border-width: 2px;
+  border-color: #0d0316;
+}
+.revanchaproject {
+  position: absolute;
+  top: 1350px;
+  left: 26%;
+  text-align: left;
+  font-size: small;
+
+  height: 220px;
+  width: 400px;
+  border-radius: 15%;
+  color: white;
+}
+.handle_pagefoter {
+  position: absolute;
+  top: 1650px;
+  left: 18%;
+  width: 500px;
+text-align: center;
+color: white;
+}
+.link{
+ text-decoration: none; 
+ color: white;
+}
+.link:hover{
+  color: #025e6e;
+}
+
+
+.handle_pagefoter.a {
+  color:bisque;
+  text-decoration: none;
+
+}
+
+
+
+  
+}
+
+
+
+
+@media  screen and (min-width: 1023px) and (max-width: 1199px){
+  
+  .cuerpo {
+    background: rgb(9, 8, 73);
+    background: linear-gradient(59deg, rgb(0, 0, 0) 0%, rgb(42, 37, 100) 100%); 
+    width: auto;
+    z-index: -1;
+    height: 1080px;
+  }
+
+  
+  
+  
+ 
+.insidebox {
+  flex-direction: row;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: absolute;
+  width: 400px;
+  top: 10%;
+  left:31%;
+text-align: center;
+
+
+  color: white;
+ 
+
+}
+.tituloeffect {   
+font-family: Arial; 
+font-size: 50px; 
+color: #1278BF; 
+text-shadow: 0px 0px 9px #508AD3;
+}
+
+.skills{
+  text-align: center;
+width: inherit  ;
+  color: white;
+position: absolute;
+display: flex;
+  top: 250px;
+left: 8%;
+}
+.skill-item{
+  padding: 20px;
+  width: 300px;
+  transition: background-color .3s;
+  border-radius: 5%;
+}
+.skill-item:hover{
+  color: black;
+  background-color: #c4bdd8;
+  border-radius: 5%;
+}
+.skill-tittle{
+  border-bottom-style:solid ;
+  border-width: .3px;
+}
+.cbdproject {
+  position: absolute;
+  top: 550px;
+  left: 10%;
+
+  font-size: small;
+  height: 220px;
+  width:400px;
+  
+border-top-width:0px ;
+  color: white;
+}
+
+.column_2 {
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  position: absolute;
+  width: 180px;
+  border-top-style: solid;
+  padding-top: 7px;
+  border-width: 2px;
+  border-color: #0d0316;
+}
+.revanchaproject {
+  position: absolute;
+  top: 550px;
+  right: 10%;
+  text-align: left;
+  font-size: small;
+
+  height: 220px;
+  width: 400px;
+  border-radius: 15%;
+  color: white;
+}
+.handle_pagefoter {
+  position: absolute;
+  top: 850px;
+  left: 26.5%;
+  width: 500px;
+text-align: center;
+color: white;
+}
+.link{
+ text-decoration: none; 
+ color: white;
+}
+.link:hover{
+  color: #025e6e;
+}
+
+
+.handle_pagefoter.a {
+  color:bisque;
+  text-decoration: none;
+
+}
+
+
+  
+}
+
+
+
+@media  screen and (min-width: 1200px)  {
+  .cuerpo {
+    background: rgb(9, 8, 73);
+    background: linear-gradient(59deg, rgb(0, 0, 0) 0%, rgb(42, 37, 100) 100%); 
+    width: auto;
+    z-index: -1;
+    height: 1100px;
+
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+  
+ 
+.insidebox {
+  flex-direction: row;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: absolute;
+  width: 400px;
+  top: 10%;
+  left:34%;
+text-align: center;
+
+
+  color: white;
+ 
+
+}
+.tituloeffect {   
+font-family: Arial; 
+font-size: 50px; 
+color: #1278BF; 
+text-shadow: 0px 0px 9px #508AD3;
+}
+
+
+
+
+.skills{
+  text-align: center;
+
+  color: white;
+position: absolute;
+display: flex;
+  top: 250px;
+  left: 15.5%;
+}
+.skill-item{
+  padding: 20px;
+  width: 300px;
+  transition: background-color .3s;
+  border-radius: 5%;
+}
+.skill-item:hover{
+  color: black;
+  background-color: #c4bdd8;
+  border-radius: 5%;
+}
+.skill-tittle{
+  border-bottom-style:solid ;
+  border-width: .3px;
+}
+.cbdproject {
+  position: absolute;
+  top: 600px;
+  left: 15%;
+
+  font-size: small;
+  height: 220px;
+  width:400px;
+  
+border-top-width:0px ;
+  color: white;
+}
+.circulo{
+  border-radius: 5%;
+}
+
+.column_2 {
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  position: absolute;
+  width: 180px;
+  border-top-style: solid;
+  padding-top: 7px;
+  border-width: 2px;
+  border-color: #0d0316;
+}
+.revanchaproject {
+  position: absolute;
+  top: 600px;
+  right: 15%;
+  text-align: left;
+  font-size: small;
+
+  height: 220px;
+  width: 400px;
+  border-radius: 15%;
+  color: white;
+}
+.handle_pagefoter {
+  position: absolute;
+  top: 900px;
+  left: 31%;
+  width: 500px;
+text-align: center;
+color: white;
+}
+.link{
+ text-decoration: none; 
+ color: white;
+}
+.link:hover{
+  color: #025e6e;
+}
+
+
+.handle_pagefoter.a {
+  color:bisque;
+  text-decoration: none;
+
+}
+
+
+
+}
